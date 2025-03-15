@@ -71,7 +71,7 @@ Visit `http://localhost:8000` to see the blog platform in action!
 
 ## 📧 Contact
 
-For any questions or further inquiries, reach us at **nbekele8@gmail.com**.
+For any questions or further inquiries, reach me at **nbekele8@gmail.com**.
 
 ## 📸 Example
 

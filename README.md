@@ -1,10 +1,10 @@
-# Task 01: Blog Platform
+# Task 01: Bloging Platform
 
 Welcome to the Blog Platform! This project enables users to share their thoughts by creating blog posts and allows viewers to browse these posts on the homepage in reverse chronological order.
 
 ---
 
-## ?? Features
+## 🚀 Features
 
 -   **Post Creation**: Users can create new posts with a title and body to share their ideas.
 -   **Homepage Display**: All posts appear on the homepage in reverse chronological order, showcasing the latest posts first.
@@ -14,22 +14,22 @@ Welcome to the Blog Platform! This project enables users to share their thoughts
 -   **Livewire:** For building dynamic, reactive components, particularly enhancing the search functionality.
 
 
-## ??? Built With
+## 🛠️ Built With
 
 -   **Laravel**: Backend framework that handles routes, authentication, data storage, and post management.
 -   **Bootstrap**: Front-end framework for designing a responsive and visually appealing user interface.
 
-## ??? Project Structure
+## 🖥️ Project Structure
 
 -   **Frontend**: Built with Bootstrap for a clean, responsive layout.
 -   **Backend**: Powered by Laravel, handling all aspects of post management, from creation to display on the homepage.
 
-## ?? Requirements
+## 📄 Requirements
 
 -   Laravel version 8+ and PHP version 7.3+.
 -   Bootstrap for front-end styling and layout.
 
-## ?? Installation
+## 📥 Installation
 
 1. Clone the repository:
 
@@ -69,11 +69,11 @@ Welcome to the Blog Platform! This project enables users to share their thoughts
 
 Visit `http://localhost:8000` to see the blog platform in action!
 
-## ?? Contact
+## 📧 Contact
 
 For any questions or further inquiries, reach us at **nbekele8@gmail.com**.
 
-## ?? Example
+## 📸 Example
 
 Imagine a blog where users submit posts, and others can view these entries right on the homepage. The platform is clean, simple, and open to all to share and engage with content.
 
